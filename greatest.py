@@ -7,4 +7,4 @@ if __name__ == "__main__":
     Num1 = 10
     Num2 = 100
     Num3 = 50
-print(max(10,100,50,100))        
+print(max(num1,num2,num3,result))        
