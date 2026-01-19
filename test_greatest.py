@@ -6,4 +6,4 @@ def test_max_output():
         "Num3 = 50\n"
         "Result = 100\n"
     )
-    assert max (Num1,Num2,Num3,Result) == expected_output
+    assert max (Num1, Num2, Num3, Result) == expected_output
