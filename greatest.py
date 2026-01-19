@@ -8,4 +8,4 @@ if __name__ == "__main__":
     Num2 = 100
     Num3 = 50
     Result = 100
-print (max ( Num1, Num2, Num3, Result))        
+print(max ( Num1, Num2, Num3, Result))        
