@@ -1,5 +1,5 @@
 def max( Num1, Num2, Num3, Result):
-    Result = max( Num1, Num2, Num3)
+    Result = max( Num1, Num2, Num3, Result)
 if __name__ == "__main__":
     Num1 = 10
     Num2 = 100
